@@ -41,3 +41,6 @@ example
 # generated native folders
 /ios
 /android
+
+# Skia web (postinstall 로 복사됨)
+/public/canvaskit.wasm

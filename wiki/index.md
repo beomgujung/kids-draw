@@ -19,3 +19,4 @@ _(아직 없음 — raw/ 에 자료를 넣고 /wiki-ingest)_
 
 ## 결정 (decisions)
 - [[decisions/0001-expo-skia]] — Expo(React Native) + Skia 채택
+- [[decisions/0002-coloring-region-fill]] — 색칠은 선 안에서만 칠해지는 붓 + 영역 단위 완성 판정
